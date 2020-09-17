@@ -1,0 +1,7 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://lin2233.xyz:3306/MyShop?characterEncoding=utf-8
+    username: root
+    password: abc123456
